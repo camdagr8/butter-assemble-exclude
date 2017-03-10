@@ -1,0 +1,15 @@
+{
+  "name": "butter-assemble-exclude",
+  "version": "1.0.0",
+  "description": "Module that excludes a file from butter assemble if `__` is in the file name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "butter",
+    "butter-assemble"
+  ],
+  "author": "Cam Tullos <cam@tullos.ninja> (http://cam.tullos.ninja)",
+  "license": "GPL-3.0"
+}
