@@ -38,3 +38,6 @@ jspm_packages
 
 # Komodo project files
 .komodo*
+
+# Webstorm project file
+.idea
